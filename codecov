@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Swift 4 CodeCov Integration";
+echo "Swift 5 CodeCov Integration";
 
 # Determine OS
 UNAME=`uname`;
